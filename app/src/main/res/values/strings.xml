@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">BMI calculator</string>
+    <string name="copyright">Copyright (c) 2021 Nazran</string>
+    <string name="matric">2020968841</string>
+    <string name="myname">Muhammad Nazran Bin Nazain</string>
+    <string name="uitm">UiTM Arau Perlis</string>
+    <string name="aboutbmi">BMI stand for Body Mass Index is a measurement of body fat based on height (meter) and weight (kilogram) for both men and women.
+    After performing the calculation, the value of BMI will be categorized accordingly with the Health Risk condition.</string>
+</resources>
